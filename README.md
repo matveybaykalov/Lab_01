@@ -1,6 +1,6 @@
 # Отчёт по Lab01
 
-##При выполнении учебного материала были выполнены команды
+## При выполнении учебного материала были выполнены команды
 ```asm
 export GITHUB_USERNAME=matveybaykalov
 export GIST_TOKEN=51fa90858a0ec8d919d074aa1e6e061cbbac9e7e
@@ -44,7 +44,7 @@ edit REPORT.md
 gist REPORT.md
 ```
 
-##При выполнении домашнего задания были выполнены команды
+## При выполнении домашнего задания были выполнены команды
 1. Скачайте библиотеку boost с помощью утилиты wget. Адрес для скачивания
     ```asm
     wget https://sourceforge.net/projects/boost/files/boost/1.69.0/boost_1_69_0.tar.gz
